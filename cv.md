@@ -38,3 +38,8 @@ function digPow(n, p) {
 ## Experience
 * 1 year of experience in commercial development
 * I have experience in participating in the design, selection and refinement of architectural and technological solutions
+
+## Education 
+* 2018 - 2022, Ulyanovsk State Technical University
+* 2022 - 2024, Ulyanovsk State Technical University (Master's degree)
+* RS SChool
