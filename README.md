@@ -1,1 +1,1 @@
-https://blopire.github.io/rsschool-cv/cv
+https://blopire.github.io/rsschool-cv/
