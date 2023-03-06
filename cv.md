@@ -6,7 +6,7 @@ Junior Front-End Developer
 * gmail: ranis.ferdinandovich@gmail.com
 
 ## About me
-My goal is to become a front-end developer. I like to study and sit at books. I have no work experience, but I have a desire to start working in an IT company.
+My goal is to become a front-end developer. I like to study and sit at books.
 
 ## Skills
 * JavaScript
@@ -34,3 +34,7 @@ function digPow(n, p) {
   }
 }
 ```
+
+## Experience
+* 1 year of experience in commercial development
+* I have experience in participating in the design, selection and refinement of architectural and technological solutions
